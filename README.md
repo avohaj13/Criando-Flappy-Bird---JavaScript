@@ -1,1 +1,1 @@
-estrutura-base-game-js-master
+Construção do Joguinho Flappy Bird em JavaScript
