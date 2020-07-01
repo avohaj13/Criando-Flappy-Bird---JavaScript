@@ -19,33 +19,30 @@ body {
 
 /* Estilo do Game */
 
-*{
+* {
     box-sizing: border-box;
-
 }
 
 @font-face {
-font-family: 'pixel';
-src: url(../fonts/Pixel.ttf);
-
+    font-family: 'Pixel';
+    src: url('../fonts/Pixel.ttf');
 }
 
-[tp-flappy] {
-position: relative;
-border: 5px solid dodgerblue;
-height: 700px;
-width: 1200px;
-background-color: deepskyblue;
-overflow: hidden;
 
+[tp-flappy] {
+    position: relative;
+    border: 5px solid dodgerblue;
+    height: 700px;
+    width: 1200px;
+    background-color: deepskyblue;
+    overflow: hidden;
 }
 
 .passaro {
-position: relative;
-width: 60px;
-left: calc(50% - 30px);
-top: 50%;
-
+    position: absolute;
+    width: 60px;
+    left: calc(50% - 30px);
+    
 }
 
 .par-de-barreiras {
