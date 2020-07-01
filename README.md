@@ -1,2 +1,1 @@
-# Criando-Flappy-Bird---JavaScript
-Construindo o joguinho Flappy Bird em javascript
+estrutura-base-game-js-master
